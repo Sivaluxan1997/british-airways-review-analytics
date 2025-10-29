@@ -7,7 +7,7 @@ The analysis focuses on ratings for cabin service, food, seat comfort, and overa
 **Tools Used:** Tableau Public
 
 **Dashboard Preview:**  
-[![View the British Airways Dashboard](images/ba_dashboard_preview.png)](https://public.tableau.com/views/BritishAirwaysReview_17607144346010/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
+[![View the British Airways Dashboard](preview.png)](https://public.tableau.com/views/BritishAirwaysReview_17607144346010/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 
 
